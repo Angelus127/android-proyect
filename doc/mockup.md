@@ -24,4 +24,4 @@
 			<center><img src="image for UI/periodic_table.png" width="280px" height="520px"></center>
 		<h2> 8. Mapa interactivo </h2>
 			<p><blockquote> Y por ultimo podremos encontrar el apartado de mapa, en donde podremos seleccionar que tipo de informacion queremos visializar con las opciones de la izquierda. </blockquote></p>
-			<center><img src="image for UI/maps.png" width="340px" height="520px"></center>
+			<center><img src="image for UI/maps.png" width="540px" height="640px"></center>
