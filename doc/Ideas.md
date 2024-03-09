@@ -17,8 +17,8 @@ El propósito de esta app es fusionar la mayoría de las herramientas que usan l
 <a href="https://play.google.com/store/apps/details?id=all.in.one.calculator&pcampaignid=web_share">-todo en uno calculadora</a><br>
 <a href="https://play.google.com/store/apps/details?id=com.notasu&pcampaignid=web_share">-notas u</a>
 
-<h3>3. entertaiment center</h3>
-Esta app de utilidad estará enfocada en ser un directorio de entrenamiento, donde el usuario podrá administrar el contenido que esté consumiendo como serían películas, series, animes, libros, videojuegos, e.t.c. A su vez el usuario podrá definir el estado en el que se encuentra el contenido seleccionado (finalizado, pendiente, o activo). Además, la app proporcionará información detallada en tiempo sobre este (título, año, descripción, géneros, relacionados y demás), junto con la posibilidad de averiguar en qué páginas o lugares donde podrá consumir el contenido seleccionado.<br><br>
+<h3>3. MediaMAX (IDEA SELCCIONADA)</h3>
+Esta app de utilidad estará enfocada en ser un directorio de entrenamiento, donde el usuario podrá administrar el contenido que esté consumiendo como serían películas, series, animes, libros, e.t.c. A su vez el usuario podrá definir el estado en el que se encuentra el contenido seleccionado (finalizado, pendiente, o activo). Además, la app proporcionará información detallada en tiempo sobre este (título, año, descripción, géneros, relacionados y demás), junto con la posibilidad de averiguar en qué páginas o lugares donde podrá consumir el contenido seleccionado.<br><br>
 
 <a href="https://play.google.com/store/apps/details?id=it.papalillo.moviestowatch&pcampaignid=web_share">-cinemaniac</a><br>
 <a href="https://play.google.com/store/apps/details?id=com.bookshelf.prod&pcampaignid=web_share">-bookshelf</a><br>
