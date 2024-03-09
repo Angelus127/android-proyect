@@ -1,18 +1,18 @@
 <h1> Funcionalidades de la aplicacion </h1>
 <h2> restricciones tecnicas </h2>
 <ol>
-    <li> la aplicacion unicamente funcionara en android, en la version 8.0 oreo o posteriores </li>
-    <li> toda la informacion para los diccionarios sera sacada de APIS gratuitos <a href="https://www.wordsapi.com/">WORDSAPI</a>. </li> 
+    <li> La aplicacion unicamente funcionara en android, en la version 8.0 oreo o posteriores </li>
+    <li> La matyoria de la informacion sera sacada de APIS de dicadas como <a href="https://developer.themoviedb.org/docs/getting-started">MOVIEDB</a>. </li> 
     <li> se necesitara conexion a internet para actualizar la informacion </li>
 </ol>
 <h2> Funcionalidades del usuario </h2>
-<p> School pocket le permitira al usuario a una serie de herramientas que facilidaran el desarrollo de actividades durante su periodo estudiantil. Dichas funcionalidades serian: </p>
+<p> MediaMAX es una app que le permitira al usuario la administracion del contenido que esta consumiendo "series, pelicualas, animes y libros". </p>
 <ul>
-    <li> Usar una calculadora: se implementera una calculadora sencilla que le permitira al usuario realiazar calculos basicos y medios </li>
-    <li> Consultar significados de palabras: respectivamente tendremos un diccionario, por el cual podras navegar y encontrar el significado de la palabras en orden alfabetico y buscar alguna palara concretar </li>
-    <li> Guardar una palabra: dentro del diccionario tendras un apartado donde podras guardar las palabras junto con su significado de tu interes </li>
-    <li> Traducir una palabra: de forma parecida al diccionario anterior podremos buscar el significado de una palabra en los idiomas disponibles. al igual que guardarlos para consultarlos despues </li>
-    <li> Averiguar elementos quimicos: es incoporara una tabla periodica, de la cual se pondra informacion de cada elemento guardado en esta </li>
-    <li> Explorar mapas: en este apartado podras encontrar un mapa del pais en el que te encuentres usano tu ubicacion. con el podras observar distintas caracteristicas del pais. </li>
-    <li> Crear notas: el usario podra resgistrar informacion importante dentro del sistema de notas de la aplicacion </li>
+    <li> Navegar el menu: el usurario podra explorar el inicio buscando y observadno todo el contenido disponible. </li>
+    <li> Explorar films: el usuario podra seleccionar el tipo de contenido que quiere observar entre los que hay. </li>
+    <li> Buscar multimedia: usuario podra buscar al contedio por el titulo, director, o actores participantes </li>
+    <li> Filtrar contenido: se podra filtrar el contenido, en base al genero, año y otro tipo de inforamcion relacionada </li>
+    <li> Consultar inforamcion: se podra visualizar, informacion detallada del contenido elegido como serian titulo, genero, año de publicacion, director o actores, realcionados, resumen, valoracion etc.  </li>
+    <li> Guardar contenido: el usuario podra guardar el contenido en distintos estados segun el usuario contemple. estados tales como favorito, pendiantes, finalizado, anclado o en proceso </li>
+    <li> Guardar informacion: el usuario podra guardar en un archivo automatico una copia de seguridad de todo el conteido guardado en la libreria. </li>
 </ul>
