@@ -15,4 +15,5 @@
     <li> Consultar inforamcion: se podra visualizar, informacion detallada del contenido elegido como serian titulo, genero, año de publicacion, director o actores, realcionados, resumen, valoracion etc.  </li>
     <li> Guardar contenido: el usuario podra guardar el contenido en distintos estados segun el usuario contemple. estados tales como favorito, pendiantes, finalizado, anclado o en proceso </li>
     <li> Guardar informacion: el usuario podra guardar en un archivo automatico una copia de seguridad de todo el conteido guardado en la libreria. </li>
+    <li> Administrar contenido: podrás determinar que contenido será marcado como visto o no visto </li>
 </ul>
